@@ -42,5 +42,51 @@ FORMULÁRIO DE TESTE DE USABILIDADE DA PLATAFORMA CANVA
 8- Comente suas descobertas, críticas e elogios sobre a plataforma.
 
 Sexto passo (análise e relatório das descobertas): Essa parte será finalizada após o término dos testes com os usuários.
-[Canva.docx](https://github.com/giprimon/projetoIHC/files/6550015/Canva.docx)
-Segue doc onde proponho uma introdução e os testes a serem realizados de usabilidade
+
+
+# Teste de acessibilidade
+Não é possível garantir 100% da acessibilidade em um software, mas podemos pensar em como promover uma boa experiência para todos os usuários.
+Tipos de deficiência ou limitação em usabilidade do software
+•	Deficiência visual: A deficiência visual inclui o a cegueira completa, a baixa visão, sensibilidade a luz e as pessoas com daltonismo.
+
+•	Baixa visão: Usuários que possuem a visão comprometida e geralmente utilizam ampliadores de tela por ter uma dificuldade em enxergar de perto ou longe.
+
+•	Cegueira: São pessoas que não possuem a visão e utilizam leitores de tela para navegar nos sites, sua funcionalidade é realizada pelo teclado.
+
+•	Daltonismo: É um tipo de deficiência visual que afeta 10% da população mundial masculina.
+
+•	Deficiência auditiva: Concentra na dificuldade em ouvir com clareza ou o comprometimento total com a audição, por esse motivo alguns sites adicionam a acessibilidade em libras.
+
+•	Dificuldade de aprendizagem: São problemas nos quais a pessoa acha as palavras muito difíceis. Sendo assim, o testador deverá verificar se o idioma é compatível para leitura do usuário e se as palavras utilizadas são de fácil compreensão.
+
+•	Deficiência física: O teste é realizado para pessoas com dificuldade em usar o teclado ou mouse, o que inclui movimentos das mãos e lentidão muscular.
+
+•	Idosos: É comum em idosos ter a capacidade de visão comprometida em decorrência natural da idade, pensar em um site onde o usuário possa aumentar o tamanho da fonte das informações, onde ocorra uma fácil leitura e interação com as funcionalidades.
+
+•	Idioma: Um software para os usuários brasileiros deverá ter as informações em português do Brasil, pois 95% da população brasileira não fala inglês. A solução eficaz para outros usuários de diferentes nacionalidades é ter a possibilidade alterar o idioma da interface do usuário.
+
+Como será realizado um teste de acessibilidade?
+O teste de acessibilidade poderá ser realizado com a metodologia de testes de caixa preta.
+
+Teste de caixa-preta:
+O testador irá verificar por meio de extensões disponíveis no mercado de software se uma pessoa com daltonismo conseguirá visualizar os componentes da interface de maneira clara e agradável, o testador deverá verificar se uma pessoa com miopia conseguirá ler as instruções e se a legibilidade das informações está de fácil compreensão.
+Outro ponto que será testado, é o acesso por deficientes auditivos caso não alfabetizados, a interface deverá possuir um tradutor para a linguagem brasileira de sinais (libras).
+
+Pontos a verificar: 
+- O tamanho da fonte deve facilitar a leitura; 
+- Evite o uso da fonte no estilo itálico, pois essa formatação dificulta a leitura;
+- As cores devem seguir regras para que todos os usuários consigam identificar os elementos;
+- Todo elemento informativo, como o ícone por exemplo, precisa de um elemento textual que o descreva; 
+- Links devem ser claramente identificados por elementos visuais;
+-É recomendado que todo site tenha conteúdo em áudio para sua descrição de conteúdo;
+-É apropriado que todo site tenha interpretação em Libras por meio de um avatar digital;
+-Todo conteúdo digital não textual como por exemplo uma imagem, deverá conter uma descrição.
+
+1.	Ele pode ser lido em PCs e em dispositivos móveis?
+2.	Ele conta com textos e áudio descritivos?
+3.	As letras e imagens são grandes?
+4.	Ele tem efeitos luminosos moderados?
+5.	Seu site tem um mapa?
+6.	Os formulários são acessíveis?
+7.	Você fez uma verificação em programas automatizados?
+
