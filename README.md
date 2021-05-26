@@ -42,3 +42,5 @@ FORMULÁRIO DE TESTE DE USABILIDADE DA PLATAFORMA CANVA
 8- Comente suas descobertas, críticas e elogios sobre a plataforma.
 
 Sexto passo (análise e relatório das descobertas): Essa parte será finalizada após o término dos testes com os usuários.
+[Canva.docx](https://github.com/giprimon/projetoIHC/files/6550015/Canva.docx)
+Segue doc onde proponho uma introdução e os testes a serem realizados de usabilidade
