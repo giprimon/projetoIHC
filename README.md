@@ -7,7 +7,7 @@ Em um primeiro momento, foi realizada a pesquisa  para  a escolha de qual plataf
 
 Dentro da matéria de Interação Humano Computador, o foco é encontrar a usabilidade dos softwares, portanto dentro desse projeto a intenção é mostrar como a usabilidade da plataforma Canva tem ajudado o aprendizado durante a pandemia. Além disso, incluimos na pesquisa o entendimento da acessibilidade do aplicativo, para que seja possível estudar sua funcionalidade como um todo.
 
-#TESTE DE USABILIDADE 
+# TESTE DE USABILIDADE
 
 Primeiro passo (objetivo do teste): O objetivo desse teste é saber como os usuários da plataforma Canva obtiveram benefícios em seu aprendizado durante a pandemia, além de concluir se é possível ter uma boa experiência no uso do aplicativo.
 
