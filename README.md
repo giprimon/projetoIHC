@@ -7,7 +7,9 @@ Em um primeiro momento, foi realizada a pesquisa  para  a escolha de qual plataf
 
 Dentro da matéria de Interação Humano Computador, o foco é encontrar a usabilidade dos softwares, portanto dentro desse projeto a intenção é mostrar como a usabilidade da plataforma Canva tem ajudado o aprendizado durante a pandemia. Além disso, incluimos na pesquisa o entendimento da acessibilidade do aplicativo, para que seja possível estudar sua funcionalidade como um todo.
 
-# Teste de Usabilidade  
+
+# TESTE DE USABILIDADE
+
 
 Primeiro passo (objetivo do teste): O objetivo desse teste é saber como os usuários da plataforma Canva obtiveram benefícios em seu aprendizado durante a pandemia, além de concluir se é possível ter uma boa experiência no uso do aplicativo.
 
@@ -43,11 +45,10 @@ FORMULÁRIO DE TESTE DE USABILIDADE DA PLATAFORMA CANVA
 
 Sexto passo (análise e relatório das descobertas): Essa parte será finalizada após o término dos testes com os usuários.
 
-# Teste de Acessibilidade
+--
 
+Tipos de deficiência ou limitação em acessibilidade do software
 
-Não é possível garantir 100% da acessibilidade em um software, mas podemos pensar em como promover uma boa experiência para todos os usuários
-Tipos de deficiência ou limitação em usabilidade do software
 •	Deficiência visual: A deficiência visual inclui o a cegueira completa, a baixa visão, sensibilidade a luz e as pessoas com daltonismo.
 
 •	Baixa visão: Usuários que possuem a visão comprometida e geralmente utilizam ampliadores de tela por ter uma dificuldade em enxergar de perto ou longe.
@@ -84,13 +85,20 @@ Pontos a verificar:
 -Todo conteúdo digital não textual como por exemplo uma imagem, deverá conter uma descrição.
 
 1.	Ele pode ser lido em PCs e em dispositivos móveis?
+
 2.	Ele conta com textos e áudio descritivos?
+
 3.	As letras e imagens são grandes?
+
 4.	Ele tem efeitos luminosos moderados?
+
 5.	Seu site tem um mapa?
+
 6.	Os formulários são acessíveis?
+
 7.	Você fez uma verificação em programas automatizados?
 
+=======
 # Resultados do teste de usabilidade com os usuários
 
 ![Questionário IHC - 1° questão](https://user-images.githubusercontent.com/60889918/121281647-9edbc600-c8ae-11eb-8f31-6b7766eefc92.jpg)
@@ -108,6 +116,23 @@ Pontos a verificar:
 ![Questionário IHC - 7° questão](https://user-images.githubusercontent.com/60889918/121284312-08f66a00-c8b3-11eb-88a6-df5f0a391e86.jpg)
 
 ![Questionário IHC - 8° questão](https://user-images.githubusercontent.com/60889918/121285706-3512ea80-c8b5-11eb-84cf-a1337e0010e8.jpg)
+
+=======
+# Resultados do teste de usabilidade com os usuários
+
+![Questionário IHC - 1° questão](error)
+
+![Questionário IHC - 2° questão](error)
+
+![Questionário IHC - 3° questão](error)
+
+![Questionário IHC - 4° questão](error)
+
+![Questionário IHC - 5° questão](error)
+
+![Questionário IHC - 6° questão](error)
+
+![Questionário IHC - 7° questão](error)
 
 
 
