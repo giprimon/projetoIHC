@@ -88,3 +88,22 @@ Pontos a verificar:
 5.	Seu site tem um mapa?
 6.	Os formulários são acessíveis?
 7.	Você fez uma verificação em programas automatizados?
+
+# Resultados do teste de usabilidade com os usuários
+
+![Questionário IHC - 1° questão](https://user-images.githubusercontent.com/60889918/121281647-9edbc600-c8ae-11eb-8f31-6b7766eefc92.jpg)
+
+![Questionário IHC - 2° questão](https://user-images.githubusercontent.com/60889918/121281669-a9965b00-c8ae-11eb-997a-1f6cb353651b.jpg)
+
+![Questionário IHC - 3° questão](https://user-images.githubusercontent.com/60889918/121281687-b0bd6900-c8ae-11eb-8000-4b5e3d10a71b.jpg)
+
+![Questionário IHC - 4° questão](https://user-images.githubusercontent.com/60889918/121281699-b4e98680-c8ae-11eb-8d99-07bfc7748538.jpg)
+
+![Questionário IHC - 5° questão](https://user-images.githubusercontent.com/60889918/121281715-badf6780-c8ae-11eb-9f82-263676bdc29e.jpg)
+
+![Questionário IHC - 6° questão](https://user-images.githubusercontent.com/60889918/121283485-95079200-c8b1-11eb-87e9-99df66bf650e.jpg)
+
+
+
+
+
